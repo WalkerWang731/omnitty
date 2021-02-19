@@ -144,7 +144,7 @@ void machmgr_unmark_section_all();
 void machmgr_remark_section_all();
 void machmgr_tag_step(int length,int step);
 void machmgr_goto_selmach(int num);
-void machmgr_reverse_tag();
+void machmgr_reverse_tag_marked();
 /*end by wdh*/
 
 #endif
