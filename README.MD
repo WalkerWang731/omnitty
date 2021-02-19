@@ -51,3 +51,9 @@ You can edit `omnitty-{VERSION}/Makefile.in` and replace that lines:
 omnitty: $(objects)  
 $(CC) $(CFLAGS)  -o omnitty $(objects) $(LDFLAGS) $(LIBS) -lncurses  -ltinfo
 ```
+
+## Thanks for them
+- rote-0.2.8 from http://rote.sourceforge.net/
+- omnitty-0.3.0 from http://omnitty.sourceforge.net/
+- omnitty-g112wdh from [@g112wdh](https://github.com/g112wdh/omnitty)
+- osx_patch from [@mastre](https://github.com/mastre/omnitty_osx)
