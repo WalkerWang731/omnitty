@@ -20,7 +20,7 @@ This is not possible with other automatic tools.
 - `make && make install`
 
 #### Then install `omnitty`
-- `cd omnitty-0.3.0` or `cd omnitty-g112wdh`
+- `cd omnitty-0.3.0` or `cd omnitty-g112wdh` or `cd omnitty-walkerwang731`
 - `./configure`
 - `make && make install`
 
@@ -57,3 +57,4 @@ $(CC) $(CFLAGS)  -o omnitty $(objects) $(LDFLAGS) $(LIBS) -lncurses  -ltinfo
 - omnitty-0.3.0 from http://omnitty.sourceforge.net/
 - omnitty-g112wdh from [@g112wdh](https://github.com/g112wdh/omnitty)
 - osx_patch from [@mastre](https://github.com/mastre/omnitty_osx)
+- omnitty-walkerwang from myself verison, base on omnitty-g112wdh, add new features
