@@ -53,8 +53,8 @@ $(CC) $(CFLAGS)  -o omnitty $(objects) $(LDFLAGS) $(LIBS) -lncurses  -ltinfo
 ```
 
 ## Thanks for them
+- osx_patch from [@mastre](https://github.com/mastre/omnitty_osx)
 - rote-0.2.8 from http://rote.sourceforge.net/
 - omnitty-0.3.0 from http://omnitty.sourceforge.net/
 - omnitty-g112wdh from [@g112wdh](https://github.com/g112wdh/omnitty)
-- osx_patch from [@mastre](https://github.com/mastre/omnitty_osx)
-- omnitty-walkerwang from myself verison, base on omnitty-g112wdh, add new features
+- omnitty-walkerwang731 from myself verison, base on omnitty-g112wdh, add new features
