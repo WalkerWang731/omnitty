@@ -29,7 +29,7 @@ Please `copy` and `replace` files that same name from the `osx_patch` directory
 
 
 ## Q&A
-#### When occurrence that `Need ncurses to compile librote`
+#### When occurred that `Need ncurses to compile librote`
 - CentOS: `yum install ncurses-devel`
 - ubuntu: `apt-get install libncurses5-dev`
 
